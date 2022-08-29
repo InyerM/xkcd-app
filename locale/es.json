@@ -1,0 +1,14 @@
+{
+  "latest_comics": "Últimos comics",
+  "page_not_found": "Página no encontrada",
+  "results_for": "Resultados para",
+  "search_results_for": "Resultados de la búsqueda para",
+  "search": "Buscar",
+  "search_comics": "Buscar comics",
+  "comics_for_developers": "Comics para desarrolladores",
+  "previous": "Anterior",
+  "next": "Siguiente",
+  "all_comics_by": "Todos los comics son de",
+  "search_results_title": "Ver ${1} resultados para ${2}",
+  "home": "Inicio"
+}

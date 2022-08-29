@@ -1,0 +1,14 @@
+{
+  "latest_comics": "Latest comics",
+  "page_not_found": "Page not found",
+  "results_for": "Results for",
+  "search_results_for": "Search results for",
+  "search": "Search",
+  "search_comics": "Search comics",
+  "comics_for_developers": "Comics for developers",
+  "previous": "Previous",
+  "next": "Next",
+  "all_comics_by": "All comics by",
+  "search_results_title": "See ${1} results for '${2}'",
+  "home": "Home"
+}
