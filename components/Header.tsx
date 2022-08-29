@@ -2,7 +2,6 @@ import Link from 'next/link'
 import { useRef, useState, MutableRefObject } from 'react'
 import { xkcd_result } from 'types'
 import axios from 'axios'
-import { host } from 'config'
 import { useRouter } from 'next/router'
 import Item from './search/Item'
 import { useI18N } from 'context/i18n'
@@ -19,7 +18,7 @@ const Header = () => {
   const handleChange = async () => {
     const q = getValue()
     
-    const { data } = await axios.get(`${host}/api/search?q=${q}`)
+    const { data } = await axios.get(`/api/search?q=${q}`)
     setResults(data)
   }
 
